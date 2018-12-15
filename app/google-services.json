@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683811903791",
+    "firebase_url": "https://fir-authphoneemailpa.firebaseio.com",
+    "project_id": "fir-authphoneemailpa",
+    "storage_bucket": "fir-authphoneemailpa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683811903791:android:d3903b656ec9faa4",
+        "android_client_info": {
+          "package_name": "com.tutorial.shourov.firebaseauthgooglephoneemailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683811903791-j4e63l1k0pa2mc09q4slda6373rolmj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorial.shourov.firebaseauthgooglephoneemailpass",
+            "certificate_hash": "aa2959e4fe8bceb62a50351c7ccbff9991131e47"
+          }
+        },
+        {
+          "client_id": "683811903791-2il4vlundbaujvgon7tsoioj83v6ekml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRc59U5fQ_J-kNFfBagx8vw6Vou0vgLSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683811903791-2il4vlundbaujvgon7tsoioj83v6ekml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
